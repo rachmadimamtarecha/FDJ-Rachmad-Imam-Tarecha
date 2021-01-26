@@ -1,5 +1,5 @@
 import {
-    helloWorld
-} from "./module/js/test.js"
+    runMain
+} from "./module/js/getData.js"
 
-helloWorld();
+runMain();
